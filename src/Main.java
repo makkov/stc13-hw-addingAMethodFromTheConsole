@@ -10,8 +10,5 @@ public class Main {
 
         addMethod.removeLines(path, text);
 
-
-
-        //monkey.eat("dsf", 3);
     }
 }
