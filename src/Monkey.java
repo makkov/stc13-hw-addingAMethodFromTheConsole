@@ -42,4 +42,9 @@ public class Monkey {
     public int hashCode() {
         return Objects.hash(name, specied);
     }
+
+    public void eat() {
+        System.out.println("i'm eating");
+    }
+
 }
